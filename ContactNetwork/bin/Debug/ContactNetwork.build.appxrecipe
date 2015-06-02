@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>W510-PC</Machine>
+    <WindowsUser>W510</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>86a33138-3124-49f4-b2e1-6a2b5646b8fc</PackageIdentityName>
+    <IntermediateOutputPath>E:\Visual Studio Projects\ContactNetwork\ContactNetwork\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\ContactNetwork.exe">
+      <PackagePath>ContactNetwork.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Images\signInBgr.jpg">
+      <PackagePath>Images\signInBgr.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\Pages\RegisterPage.xbf">
+      <PackagePath>Pages\RegisterPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\Pages\SignInPage.xbf">
+      <PackagePath>Pages\SignInPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\ContactNetwork.xr.xml">
+      <PackagePath>ContactNetwork.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

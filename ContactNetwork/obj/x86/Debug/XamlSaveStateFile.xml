@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="e:\visual studio projects\contactnetwork\contactnetwork\obj\x86\debug\intermediatexaml\contactnetwork.exe" HashGuid="0dc02631-2f17-f91f-9144-9de94bf1eef0" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="e:\visual studio projects\contactnetwork\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+    <ReferenceAssembly PathName="e:\visual studio projects\contactnetwork\packages\sqlite.net-pcl.3.0.5\lib\windows8\sqlite.net.dll" HashGuid="4840b8e3-dc66-6793-97b8-8abc180963b6" />
+    <ReferenceAssembly PathName="e:\visual studio projects\contactnetwork\packages\sqlite.net-pcl.3.0.5\lib\windows8\sqlite.net.platform.winrt.dll" HashGuid="38f34186-7ad1-6b9f-3805-295b67ec275e" />
+    <ReferenceAssembly PathName="e:\visual studio projects\contactnetwork\packages\sqlitenetextensions.1.3.0\lib\portable-net45+netcore45+wpa81+wp8+monoandroid1+monotouch1\sqlitenetextensions.dll" HashGuid="90293966-e53f-2b6b-fe23-703d69bb6086" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

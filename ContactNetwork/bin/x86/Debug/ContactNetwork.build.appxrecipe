@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>W510-PC</Machine>
+    <WindowsUser>W510</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>86a33138-3124-49f4-b2e1-6a2b5646b8fc</PackageIdentityName>
+    <IntermediateOutputPath>E:\Visual Studio Projects\ContactNetwork\ContactNetwork\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\ContactNetwork.exe">
+      <PackagePath>ContactNetwork.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\packages\SQLite.Net-PCL.3.0.5\lib\Windows8\SQLite.Net.dll">
+      <PackagePath>SQLite.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\packages\SQLite.Net-PCL.3.0.5\lib\Windows8\SQLite.Net.Platform.WinRT.dll">
+      <PackagePath>SQLite.Net.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\packages\SQLiteNetExtensions.1.3.0\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\SQLiteNetExtensions.dll">
+      <PackagePath>SQLiteNetExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.7.2\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Images\add.png">
+      <PackagePath>Images\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Images\profileBgr.png">
+      <PackagePath>Images\profileBgr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Images\save.png">
+      <PackagePath>Images\save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Images\save1.png">
+      <PackagePath>Images\save1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Images\signInBgr.jpg">
+      <PackagePath>Images\signInBgr.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\Pages\BrowsePage.xbf">
+      <PackagePath>Pages\BrowsePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\Pages\FriendsPage.xbf">
+      <PackagePath>Pages\FriendsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\Pages\MyProfilePage.xbf">
+      <PackagePath>Pages\MyProfilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\Pages\RegisterPage.xbf">
+      <PackagePath>Pages\RegisterPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\Pages\SignInPage.xbf">
+      <PackagePath>Pages\SignInPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\ContactNetwork.xr.xml">
+      <PackagePath>ContactNetwork.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

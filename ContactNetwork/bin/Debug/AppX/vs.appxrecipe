@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>W510-PC</Machine>
+    <WindowsUser>W510</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>86a33138-3124-49f4-b2e1-6a2b5646b8fc</PackageIdentityName>
+    <IntermediateOutputPath>E:\Visual Studio Projects\ContactNetwork\ContactNetwork\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>91164B8517038A4D330EAD67D0454F1503E5BF25BC581521B8C6C334822F1CC5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>86a33138-3124-49f4-b2e1-6a2b5646b8fc_1.0.0.0_neutral__k6w8cejfph6q2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>86a33138-3124-49f4-b2e1-6a2b5646b8fc_k6w8cejfph6q2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>86a33138-3124-49f4-b2e1-6a2b5646b8fc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=W510</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-16T12:12:13.222</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\ContactNetwork.exe">
+      <PackagePath>ContactNetwork.exe</PackagePath>
+      <Modified>2015-05-17T08:50:03.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\Images\signInBgr.jpg">
+      <PackagePath>Images\signInBgr.jpg</PackagePath>
+      <Modified>2015-05-16T10:48:22.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-16T11:04:01.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\Pages\RegisterPage.xbf">
+      <PackagePath>Pages\RegisterPage.xbf</PackagePath>
+      <Modified>2015-05-17T08:50:02.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\Pages\SignInPage.xbf">
+      <PackagePath>Pages\SignInPage.xbf</PackagePath>
+      <Modified>2015-05-17T08:15:39.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\ContactNetwork.xr.xml">
+      <PackagePath>ContactNetwork.xr.xml</PackagePath>
+      <Modified>2015-05-17T08:40:32.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio Projects\ContactNetwork\ContactNetwork\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-16T12:12:13.043</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
